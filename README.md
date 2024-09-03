@@ -11,7 +11,7 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> You can find more about me and my projects on my homepage: <a href=olga-luo.com>olga-luo.com</a>. <br>
+</picture> You can find more about me and my projects on my homepage: <a href=https://olga-luo.com>olga-luo.com</a>. <br>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" alt="💖" width="32" height="32">
