@@ -15,7 +15,7 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" alt="💖" width="32" height="32">
-</picture> Thanks for stopping by, and I hope you find something that sparks your interest! If you like what I do, please consider giving me a star! <br>
+</picture> Thanks for stopping by, and I hope you find something that sparks your interest!<br>
 
 <!--
 **oooolga/oooolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
